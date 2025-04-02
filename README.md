@@ -48,8 +48,8 @@ This project is a **React-based dictionary for emojis**, designed as a practice 
 - You can add multiple emoji definitions, and the app will render them dynamically.
 
 ## Screenshots
+<img width="1727" alt="Screenshot 2025-04-02 at 8 47 20 PM" src="https://github.com/user-attachments/assets/21b2e6d3-e491-477f-8889-f68292a96770" />
 
-(./screenshot.png)  <img width="1727" alt="Screenshot 2025-04-02 at 8 47 20 PM" src="https://github.com/user-attachments/assets/f051dd48-7f2c-43dc-aa62-407ec67e00f0" />
 
 
 ## Future Improvements
