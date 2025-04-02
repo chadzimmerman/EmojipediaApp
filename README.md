@@ -6,8 +6,6 @@ This project is a **React-based dictionary for emojis**, designed as a practice 
 
 - **React Components**: Organized into modular components for easy maintainability and scalability.
 - **Dynamic Rendering**: The app dynamically renders emoji definitions on the screen.
-- **Search Functionality**: Allows users to search for emojis and definitions.
-- **Responsive Design**: The app is designed to be mobile-friendly and adapts to various screen sizes.
 - **Emoji Display**: Displays emojis with their corresponding definitions in an easy-to-read format.
 
 ## Technologies Used
