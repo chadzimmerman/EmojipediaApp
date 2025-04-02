@@ -49,7 +49,8 @@ This project is a **React-based dictionary for emojis**, designed as a practice 
 
 ## Screenshots
 
-![App Screenshot](./screenshot.png)  *(Provide a screenshot of your app here)*
+![App Screenshot](./screenshot.png)  <img width="1727" alt="Screenshot 2025-04-02 at 8 47 20 PM" src="https://github.com/user-attachments/assets/f051dd48-7f2c-43dc-aa62-407ec67e00f0" />
+
 
 ## Future Improvements
 
